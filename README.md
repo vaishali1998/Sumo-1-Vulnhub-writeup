@@ -1,4 +1,4 @@
-# Sumo-1: Vulnhub Writeup
+# Sumo:1 ~Vulnhub Writeup
 It is an boot2root challenge of the Vulnhub machine “Sumo: 1”. An intermediate box based on the Linux machine.
 
 Machine Name: Sumo_Sun*
